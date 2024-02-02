@@ -1,0 +1,5 @@
+{
+  "vim.handleKeys": { "<C-i>": false },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "IDX.aI.enableInlineCompletion": true
+}
